@@ -1,5 +1,5 @@
 {
-  "name": "nc-markdown-image-converter",
+  "name": "nc-tea3",
   "version": "1.0.0",
   "description": "Converts local image URLs to Base64 in markdown files",
   "main": "index.js",
