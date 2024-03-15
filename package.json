@@ -7,7 +7,7 @@
     "fs": "^3.2.8"
   },
   "scripts": {
-    "test": "echo \"Error: No tests implemented yet\" && exit 0" // Replace with actual tests
+    "test": "echo \"Error: No tests implemented yet\" && exit 0" 
   },
   "keywords": ["markdown", "image", "base64"]
 }
