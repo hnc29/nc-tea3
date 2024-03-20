@@ -1,13 +1,19 @@
 {
   "name": "nc-tea3",
-  "version": "1.0.0",
+  "version": "1.0.2",
   "description": "Converts local image URLs to Base64 in markdown files",
   "main": "index.js",
-  "dependencies": {
-    "fs": "^3.2.8"
+  "dependencies": {  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/hnc29/nc-tea3"
   },
   "scripts": {
-    "test": "echo \"Error: No tests implemented yet\" && exit 0" 
+    "test": "echo \"Error: No tests implemented yet\" && exit 0"
   },
-  "keywords": ["markdown", "image", "base64"]
+  "keywords": [
+    "markdown",
+    "image",
+    "base64"
+  ]
 }
